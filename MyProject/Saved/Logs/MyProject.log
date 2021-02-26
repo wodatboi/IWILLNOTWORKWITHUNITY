@@ -569,3 +569,153 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.26-15.00.56:532][  0]LogMeshReduction: No distributed automatic mesh merging module available
 [2021.02.26-15.00.56:583][  0]LogMeshMerging: No distributed automatic mesh merging module available
 [2021.02.26-15.00.57:507][  0]LogNetVersion: MyProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1177340986)
+[2021.02.26-15.01.38:531][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.26-15.01.39:339][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.237302 seconds
+[2021.02.26-15.01.39:536][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.02.26-15.01.39:539][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.02.26-15.01.39:539][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.26-15.01.56:334][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.26-15.01.56:451][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.26-15.01.59:109][  0]SourceControl: Source control is disabled
+[2021.02.26-15.01.59:109][  0]SourceControl: Source control is disabled
+[2021.02.26-15.01.59:525][  0]SourceControl: Source control is disabled
+[2021.02.26-15.01.59:646][  0]SourceControl: Source control is disabled
+[2021.02.26-15.01.59:874][  0]SourceControl: Source control is disabled
+[2021.02.26-15.02.00:075][  0]LogUProjectInfo: Found projects:
+[2021.02.26-15.02.04:905][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.26-15.02.05:234][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.26-15.02.05:234][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.26-15.02.06:722][  0]LogCollectionManager: Loaded 0 collections in 0.004195 seconds
+[2021.02.26-15.02.06:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Saved/Collections/' took 0.03s
+[2021.02.26-15.02.06:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/Developers/jack/Collections/' took 0.00s
+[2021.02.26-15.02.06:991][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/Collections/' took 0.00s
+[2021.02.26-15.02.07:425][  0]LogOcInput: OculusInput pre-init called
+[2021.02.26-15.02.07:629][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.26-15.02.07:629][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.26-15.02.10:337][  0]LogEngine: Initializing Engine...
+[2021.02.26-15.02.10:398][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.26-15.02.10:421][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.26-15.02.10:626][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.028 s
+[2021.02.26-15.02.11:849][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.26-15.02.13:107][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.26-15.02.13:543][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.26-15.02.13:651][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.26-15.02.13:651][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.26-15.02.13:677][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.26-15.02.13:677][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.26-15.02.13:677][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.26-15.02.13:677][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.26-15.02.13:677][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.26-15.02.13:677][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.26-15.02.13:677][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.26-15.02.13:695][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.26-15.02.13:880][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.26-15.02.13:881][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.26-15.02.14:171][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.26-15.02.14:171][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.26-15.02.14:529][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.26-15.02.14:933][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.26-15.02.14:991][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.26-15.02.14:993][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.26-15.02.15:037][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.26-15.02.15:127][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.26-15.02.15:127][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.26-15.02.15:130][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.26-15.02.15:130][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.26-15.02.15:130][  0]LogInit: FAudioDevice initialized.
+[2021.02.26-15.02.15:223][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.02.26-15.02.15:223][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.26-15.02.15:532][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.26-15.02.21:186][  0]LogDerivedDataCache: Saved boot cache 5.65s 78MB C:/Users/jack/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.26-15.02.21:195][  0]LogInit: Texture streaming: Enabled
+[2021.02.26-15.02.26:575][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.02.26-15.02.27:177][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.26-15.02.27:632][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.26-15.02.28:448][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.26-15.02.30:283][  0]LogInit: Transaction tracking system initialized
+[2021.02.26-15.02.32:902][  0]BlueprintLog: New page: Editor Load
+[2021.02.26-15.02.41:703][  0]LocalizationService: Localization service is disabled
+[2021.02.26-15.02.44:151][  0]TimingProfiler: Initialize
+[2021.02.26-15.02.44:255][  0]TimingProfiler: OnSessionChanged
+[2021.02.26-15.02.44:274][  0]LoadingProfiler: Initialize
+[2021.02.26-15.02.44:278][  0]LoadingProfiler: OnSessionChanged
+[2021.02.26-15.02.44:305][  0]NetworkingProfiler: Initialize
+[2021.02.26-15.02.44:316][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.26-15.02.44:316][  0]MemoryProfiler: Initialize
+[2021.02.26-15.02.44:316][  0]MemoryProfiler: OnSessionChanged
+[2021.02.26-15.02.51:507][  0]LogFileCache: Scanning file cache for directory 'C:/Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/' took 0.01s
+[2021.02.26-15.02.51:507][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.26-15.02.51:508][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.26-15.02.59:909][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.02.26-15.03.01:459][  0]SourceControl: Source control is disabled
+[2021.02.26-15.03.01:638][  0]LogUnrealEdMisc: Loading editor; pre map load, took 342.763
+[2021.02.26-15.03.02:401][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.26/FeaturePacks/StarterContent.upack)
+[2021.02.26-15.03.02:639][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-15.03.02:639][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.03.02:639][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-15.03.03:476][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2021.02.26-15.03.04:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2021.02.26-15.03.04:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2021.02.26-15.03.04:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2021.02.26-15.03.04:623][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2021.02.26-15.03.04:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2021.02.26-15.03.05:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2021.02.26-15.03.05:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2021.02.26-15.03.05:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2021.02.26-15.03.05:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2021.02.26-15.03.05:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2021.02.26-15.03.05:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2021.02.26-15.03.05:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Collapse01.uasset"
+[2021.02.26-15.03.06:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Collapse02.uasset"
+[2021.02.26-15.03.06:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2021.02.26-15.03.06:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Explosion01.uasset"
+[2021.02.26-15.03.06:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Explosion02.uasset"
+[2021.02.26-15.03.06:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2021.02.26-15.03.07:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Fire01.uasset"
+[2021.02.26-15.03.07:044][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2021.02.26-15.03.07:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2021.02.26-15.03.07:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2021.02.26-15.03.07:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Light01.uasset"
+[2021.02.26-15.03.07:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2021.02.26-15.03.07:446][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Light02.uasset"
+[2021.02.26-15.03.07:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2021.02.26-15.03.07:683][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Smoke01.uasset"
+[2021.02.26-15.03.07:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2021.02.26-15.03.07:750][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2021.02.26-15.03.07:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2021.02.26-15.03.08:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2021.02.26-15.03.08:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2021.02.26-15.03.08:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2021.02.26-15.03.08:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2021.02.26-15.03.08:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Steam01.uasset"
+[2021.02.26-15.03.08:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2021.02.26-15.03.08:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2021.02.26-15.03.09:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2021.02.26-15.03.09:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2021.02.26-15.03.09:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2021.02.26-15.03.09:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2021.02.26-15.03.09:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2021.02.26-15.03.09:516][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2021.02.26-15.03.09:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2021.02.26-15.03.09:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2021.02.26-15.03.09:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2021.02.26-15.03.09:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2021.02.26-15.03.09:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2021.02.26-15.03.09:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2021.02.26-15.03.10:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2021.02.26-15.03.10:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2021.02.26-15.03.10:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2021.02.26-15.03.15:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2021.02.26-15.03.15:513][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2021.02.26-15.03.16:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2021.02.26-15.03.17:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Maps/Minimal_Default.umap"
+[2021.02.26-15.03.17:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2021.02.26-15.03.18:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Maps/StarterMap.umap"
+[2021.02.26-15.03.21:158][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2021.02.26-15.03.21:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2021.02.26-15.03.22:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2021.02.26-15.03.22:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2021.02.26-15.03.23:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2021.02.26-15.03.23:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2021.02.26-15.03.23:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2021.02.26-15.03.24:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
