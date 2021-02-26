@@ -719,3 +719,365 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.26-15.03.23:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
 [2021.02.26-15.03.23:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
 [2021.02.26-15.03.24:931][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2021.02.26-15.03.25:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2021.02.26-15.03.25:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2021.02.26-15.03.25:603][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2021.02.26-15.03.25:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2021.02.26-15.03.25:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2021.02.26-15.03.26:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2021.02.26-15.03.26:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2021.02.26-15.03.26:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2021.02.26-15.03.27:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2021.02.26-15.03.27:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2021.02.26-15.03.27:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Glass.uasset"
+[2021.02.26-15.03.27:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2021.02.26-15.03.29:526][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2021.02.26-15.03.30:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2021.02.26-15.03.30:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2021.02.26-15.03.30:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2021.02.26-15.03.31:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2021.02.26-15.03.31:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2021.02.26-15.03.32:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2021.02.26-15.03.32:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2021.02.26-15.03.32:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2021.02.26-15.03.32:915][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2021.02.26-15.03.33:211][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2021.02.26-15.03.33:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2021.02.26-15.03.33:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2021.02.26-15.03.33:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2021.02.26-15.03.34:017][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2021.02.26-15.03.34:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2021.02.26-15.03.34:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2021.02.26-15.03.35:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2021.02.26-15.03.36:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2021.02.26-15.03.36:457][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2021.02.26-15.03.37:297][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2021.02.26-15.03.37:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2021.02.26-15.03.37:430][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2021.02.26-15.03.37:646][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2021.02.26-15.03.37:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2021.02.26-15.03.37:992][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/P_Explosion.uasset"
+[2021.02.26-15.03.38:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/P_Fire.uasset"
+[2021.02.26-15.03.38:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/P_Smoke.uasset"
+[2021.02.26-15.03.38:348][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/P_Sparks.uasset"
+[2021.02.26-15.03.38:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2021.02.26-15.03.38:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2021.02.26-15.03.39:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2021.02.26-15.03.39:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2021.02.26-15.03.39:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2021.02.26-15.03.39:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2021.02.26-15.03.39:839][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2021.02.26-15.03.39:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2021.02.26-15.03.40:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2021.02.26-15.03.40:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2021.02.26-15.03.40:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2021.02.26-15.03.40:361][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/MaterialSphere.uasset"
+[2021.02.26-15.03.40:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Bush.uasset"
+[2021.02.26-15.03.40:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Chair.uasset"
+[2021.02.26-15.03.40:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2021.02.26-15.03.40:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Couch.uasset"
+[2021.02.26-15.03.41:061][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Door.uasset"
+[2021.02.26-15.03.41:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2021.02.26-15.03.41:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2021.02.26-15.03.41:329][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2021.02.26-15.03.41:456][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2021.02.26-15.03.41:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2021.02.26-15.03.42:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2021.02.26-15.03.42:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2021.02.26-15.03.42:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Rock.uasset"
+[2021.02.26-15.03.42:400][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Shelf.uasset"
+[2021.02.26-15.03.42:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Stairs.uasset"
+[2021.02.26-15.03.42:605][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_Statue.uasset"
+[2021.02.26-15.03.42:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_TableRound.uasset"
+[2021.02.26-15.03.42:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2021.02.26-15.03.43:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2021.02.26-15.03.43:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2021.02.26-15.03.43:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2021.02.26-15.03.43:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2021.02.26-15.03.43:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2021.02.26-15.03.43:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2021.02.26-15.03.43:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2021.02.26-15.03.43:531][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2021.02.26-15.03.43:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2021.02.26-15.03.43:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2021.02.26-15.03.43:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2021.02.26-15.03.43:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2021.02.26-15.03.43:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2021.02.26-15.03.43:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2021.02.26-15.03.44:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2021.02.26-15.03.44:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2021.02.26-15.03.44:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2021.02.26-15.03.44:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2021.02.26-15.03.44:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2021.02.26-15.03.44:816][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2021.02.26-15.03.44:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2021.02.26-15.03.44:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2021.02.26-15.03.45:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2021.02.26-15.03.45:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2021.02.26-15.03.45:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2021.02.26-15.03.45:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2021.02.26-15.03.45:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2021.02.26-15.03.45:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2021.02.26-15.03.46:142][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2021.02.26-15.03.46:228][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2021.02.26-15.03.46:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2021.02.26-15.03.46:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2021.02.26-15.03.47:454][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2021.02.26-15.03.48:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2021.02.26-15.03.49:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2021.02.26-15.03.50:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2021.02.26-15.03.52:220][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2021.02.26-15.03.52:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2021.02.26-15.03.53:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2021.02.26-15.03.53:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2021.02.26-15.03.54:324][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2021.02.26-15.03.54:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2021.02.26-15.03.56:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2021.02.26-15.03.57:962][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2021.02.26-15.03.58:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2021.02.26-15.03.58:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2021.02.26-15.03.59:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2021.02.26-15.03.59:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2021.02.26-15.03.59:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2021.02.26-15.04.00:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2021.02.26-15.04.00:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2021.02.26-15.04.00:467][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2021.02.26-15.04.01:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2021.02.26-15.04.01:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2021.02.26-15.04.02:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2021.02.26-15.04.02:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2021.02.26-15.04.04:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2021.02.26-15.04.04:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2021.02.26-15.04.04:808][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2021.02.26-15.04.05:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2021.02.26-15.04.06:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2021.02.26-15.04.06:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2021.02.26-15.04.07:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2021.02.26-15.04.08:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2021.02.26-15.04.08:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2021.02.26-15.04.09:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2021.02.26-15.04.10:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2021.02.26-15.04.10:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2021.02.26-15.04.11:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2021.02.26-15.04.12:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2021.02.26-15.04.13:523][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Door_M.uasset"
+[2021.02.26-15.04.13:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Door_N.uasset"
+[2021.02.26-15.04.14:037][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2021.02.26-15.04.14:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2021.02.26-15.04.14:665][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2021.02.26-15.04.15:421][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2021.02.26-15.04.16:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2021.02.26-15.04.17:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2021.02.26-15.04.17:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2021.02.26-15.04.17:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2021.02.26-15.04.18:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2021.02.26-15.04.18:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2021.02.26-15.04.19:684][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2021.02.26-15.04.20:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2021.02.26-15.04.21:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2021.02.26-15.04.22:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2021.02.26-15.04.22:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2021.02.26-15.04.24:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2021.02.26-15.04.25:131][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2021.02.26-15.04.25:493][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2021.02.26-15.04.26:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2021.02.26-15.04.28:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2021.02.26-15.04.29:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2021.02.26-15.04.29:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2021.02.26-15.04.30:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2021.02.26-15.04.31:116][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2021.02.26-15.04.31:477][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2021.02.26-15.04.31:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2021.02.26-15.04.32:189][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2021.02.26-15.04.33:111][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2021.02.26-15.04.33:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2021.02.26-15.04.33:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2021.02.26-15.04.35:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2021.02.26-15.04.35:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2021.02.26-15.04.36:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2021.02.26-15.04.36:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2021.02.26-15.04.38:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2021.02.26-15.04.38:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2021.02.26-15.04.38:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2021.02.26-15.04.39:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2021.02.26-15.04.39:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2021.02.26-15.04.39:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2021.02.26-15.04.39:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2021.02.26-15.04.39:569][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2021.02.26-15.04.39:698][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2021.02.26-15.04.39:965][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2021.02.26-15.04.40:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2021.02.26-15.04.40:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2021.02.26-15.04.40:307][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2021.02.26-15.04.40:356][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2021.02.26-15.04.40:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2021.02.26-15.04.40:520][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2021.02.26-15.04.40:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2021.02.26-15.04.40:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Water_M.uasset"
+[2021.02.26-15.04.40:944][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Water_N.uasset"
+[2021.02.26-15.04.41:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2021.02.26-15.04.41:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2021.02.26-15.04.41:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2021.02.26-15.04.41:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2021.02.26-15.04.42:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2021.02.26-15.04.42:625][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2021.02.26-15.04.43:568][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2021.02.26-15.04.44:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2021.02.26-15.04.45:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2021.02.26-15.04.48:909][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.02.26-15.04.49:122][  0]LogStaticMesh: Built static mesh [0.19s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.02.26-15.04.53:618][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2021.02.26-15.04.56:141][  0]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2021.02.26-15.04.57:744][  0]LogSavePackage: Moving '../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Saved/Floor_400x400DB112F2C4A20D7F57616DDA9D5D79FF1.tmp' to '../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2021.02.26-15.04.57:841][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2021.02.26-15.04.58:019][  0]Cmd: MAP LOAD FILE="../../../../../../Users/jack/Documents/GitHub/IWILLNOTWORKWITHUNITY/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.26-15.04.58:042][  0]LightingResults: New page: Lighting Build
+[2021.02.26-15.04.58:286][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.26-15.04.58:395][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.26-15.04.58:582][  0]MapCheck: New page: Map Check
+[2021.02.26-15.04.58:582][  0]LightingResults: New page: Lighting Build
+[2021.02.26-15.04.59:826][  0]LogUObjectHash: Compacting FUObjectHashTables data took   9.45ms
+[2021.02.26-15.05.04:091][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.02.26-15.05.04:856][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.02.26-15.05.04:858][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.02.26-15.05.06:171][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.26-15.05.06:499][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.02.26-15.05.06:550][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.26-15.05.06:551][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,282ms to complete.
+[2021.02.26-15.05.06:551][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.565
+[2021.02.26-15.05.08:422][  0]LogUnrealEdMisc: Total Editor Startup Time, took 469.711
+[2021.02.26-15.05.11:014][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-15.05.11:048][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-15.05.11:064][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-15.05.11:076][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.26-15.05.11:777][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0191 seconds. Added 3601 classes and 859 folders.
+[2021.02.26-15.05.12:147][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2021.02.26-15.05.12:359][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.26-15.05.12:359][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:359][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-15.05.12:369][  0]LogPakFile: OnPakFileMounted2Time == 0.009067
+[2021.02.26-15.05.12:455][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.26-15.05.12:455][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:455][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.26-15.05.12:455][  0]LogPakFile: OnPakFileMounted2Time == 0.009075
+[2021.02.26-15.05.12:472][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.26-15.05.12:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.26-15.05.12:473][  0]LogPakFile: OnPakFileMounted2Time == 0.009083
+[2021.02.26-15.05.12:486][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-15.05.12:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-15.05.12:486][  0]LogPakFile: OnPakFileMounted2Time == 0.009088
+[2021.02.26-15.05.12:498][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.26-15.05.12:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.26-15.05.12:498][  0]LogPakFile: OnPakFileMounted2Time == 0.009094
+[2021.02.26-15.05.12:543][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.26-15.05.12:543][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:543][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.26-15.05.12:543][  0]LogPakFile: OnPakFileMounted2Time == 0.009101
+[2021.02.26-15.05.12:557][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.26-15.05.12:557][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:557][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.26-15.05.12:557][  0]LogPakFile: OnPakFileMounted2Time == 0.009108
+[2021.02.26-15.05.12:563][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.26-15.05.12:563][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:563][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.26-15.05.12:563][  0]LogPakFile: OnPakFileMounted2Time == 0.009113
+[2021.02.26-15.05.12:567][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.26-15.05.12:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.26-15.05.12:567][  0]LogPakFile: OnPakFileMounted2Time == 0.009117
+[2021.02.26-15.05.12:583][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.26-15.05.12:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.26-15.05.12:584][  0]LogPakFile: OnPakFileMounted2Time == 0.009122
+[2021.02.26-15.05.12:600][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.26-15.05.12:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.26-15.05.12:600][  0]LogPakFile: OnPakFileMounted2Time == 0.009127
+[2021.02.26-15.05.12:678][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.26-15.05.12:678][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:678][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.26-15.05.12:678][  0]LogPakFile: OnPakFileMounted2Time == 0.009133
+[2021.02.26-15.05.12:713][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-15.05.12:713][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:713][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-15.05.12:713][  0]LogPakFile: OnPakFileMounted2Time == 0.009143
+[2021.02.26-15.05.12:718][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.26-15.05.12:719][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:719][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.26-15.05.12:719][  0]LogPakFile: OnPakFileMounted2Time == 0.009150
+[2021.02.26-15.05.12:725][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.26-15.05.12:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:726][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.26-15.05.12:726][  0]LogPakFile: OnPakFileMounted2Time == 0.009159
+[2021.02.26-15.05.12:732][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.26-15.05.12:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-15.05.12:732][  0]LogPakFile: OnPakFileMounted2Time == 0.009167
+[2021.02.26-15.05.12:737][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.26-15.05.12:737][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:737][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.26-15.05.12:737][  0]LogPakFile: OnPakFileMounted2Time == 0.009171
+[2021.02.26-15.05.12:741][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.26-15.05.12:741][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:741][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.26-15.05.12:741][  0]LogPakFile: OnPakFileMounted2Time == 0.009175
+[2021.02.26-15.05.12:744][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-15.05.12:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-15.05.12:744][  0]LogPakFile: OnPakFileMounted2Time == 0.009178
+[2021.02.26-15.05.12:747][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-15.05.12:748][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:748][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-15.05.12:748][  0]LogPakFile: OnPakFileMounted2Time == 0.009182
+[2021.02.26-15.05.12:788][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.26-15.05.12:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.26-15.05.12:789][  0]LogPakFile: OnPakFileMounted2Time == 0.009187
+[2021.02.26-15.05.12:810][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.26-15.05.12:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.26-15.05.12:810][  0]LogPakFile: OnPakFileMounted2Time == 0.009192
+[2021.02.26-15.05.12:814][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.26-15.05.12:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.26-15.05.12:814][  0]LogPakFile: OnPakFileMounted2Time == 0.009195
+[2021.02.26-15.05.12:858][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.26-15.05.12:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.26-15.05.12:858][  0]LogPakFile: OnPakFileMounted2Time == 0.009201
+[2021.02.26-15.05.12:874][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.26-15.05.12:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.26-15.05.12:875][  0]LogPakFile: OnPakFileMounted2Time == 0.009205
+[2021.02.26-15.05.12:877][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.26-15.05.12:877][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.26-15.05.12:877][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.26-15.05.12:877][  0]LogPakFile: OnPakFileMounted2Time == 0.009208
+[2021.02.26-15.05.16:836][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2021.02.26-15.05.17:190][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2021.02.26-15.05.24:602][  0]LogSlate: Took 0.122593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.26-15.05.24:970][  0]LogSlate: Took 0.083953 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.26-15.05.26:027][  0]LogSlate: Took 0.372925 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.26-15.05.34:472][  0]LogRenderer: Reallocating scene render targets to support 1056x556 Format 10 NumSamples 1 (Frame:1).
+[2021.02.26-15.05.42:406][  0]LogSlate: Took 0.159375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.26-15.05.48:334][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0011 seconds. Added 0 classes and 0 folders.
+[2021.02.26-15.05.48:334][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.02.26-15.05.48:334][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.02.26-15.05.48:334][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.02.26-15.05.48:334][  0]LogLoad: (Engine Initialization) Total time: 509.62 seconds
+[2021.02.26-15.05.48:334][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.26-15.05.48:361][  0]LogInit: First time updating LLM stats...
+[2021.02.26-15.05.50:447][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2021.02.26-15.05.50:447][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.02.26-15.06.00:210][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.26-15.06.09:714][  1]LogAssetRegistry: Asset discovery search completed in 333.9370 seconds
+[2021.02.26-15.06.09:785][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.012864 seconds (updated 0 objects)
+[2021.02.26-15.06.42:376][312]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.02.26-15.07.16:255][546]LogActorFactory: Actor Factory created Sphere
+[2021.02.26-15.07.17:586][546]LogActorFactory: Actor Factory created Sphere
+[2021.02.26-15.07.22:669][547]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2021.02.26-15.07.24:849][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.26-15.07.26:318][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Sphere)
